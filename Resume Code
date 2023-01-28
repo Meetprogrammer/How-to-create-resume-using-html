@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Resume</title>
+    <style>
+        table,tr,th,td{
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h1 align="center">Resume</h1>
+    <p>Name:- Lets Create New</p>
+    <p>Contact No:- 99999999</p>
+    <p>Email:- MEetsdkjkj@gmail.com</p><hr>
+
+    <h2>Objective</h2>
+    <p>A resume objective is to be eye catching statement of your career Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam neque minima qui sapiente deleniti. Voluptatibus, dolore consequatur, sit officiis aliquid eaque assumenda numquam ad, nisi omnis odit? Temporibus, repellat cum!</p>
+    <hr>
+
+    <h2>Expercience</h2>
+    <ul>
+        <li>Tester</li>
+        <li>Developer</li>
+    </ul><hr>
+
+    <h2>Academics Qualification</h2>
+    <table>
+        <tr>
+            <th>Year</th>
+            <th>Degree</th>
+            <th>Board</th>
+            <th>Results</th>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>S.S.C</td>
+            <td>CBSE</td>
+            <td>72%</td>
+        </tr>
+        <tr>
+            <td>2022</td>
+            <td>Diploma</td>
+            <td>MArwadi University</td>
+            <td>82%</td>
+        </tr>
+        <tr>
+            <td>2023</td>
+            <td>Diploma</td>
+            <td>Marwadi university</td>
+            <td>78%</td>
+        </tr>
+    </table><hr>
+    <h2>Technical Skills</h2>
+    <ul>
+        <li>
+            C,C++
+        </li>
+        <li>
+            Python
+        </li>
+        <Li>
+            Java
+        </Li>
+
+    </ul><hr>
+    <h2>Technical Area Of Intrest</h2>
+    <ul>
+        <li>
+           Html,Css
+        </li>
+        <li>
+            Javascript
+        </li>
+    </ul><hr>
+    <h2>Personal Details</h2>
+    <p>D.O.B:- 15/06/2005</p>
+        <p>Address Gujarat, India</p>
+        <p>Language:- Hindi English Gujarati</p>
+</body>
+</html>
